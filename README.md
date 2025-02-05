@@ -2,3 +2,4 @@
 
 https://github.com/2303A52268/GAI-2268/blob/main/GAI_(Ass_01).ipynb
 
+https://github.com/2303A52268/GAI-2268/blob/main/GAI_(lab_02).ipynb
